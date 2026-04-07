@@ -1,0 +1,108 @@
+{
+  "steps": 5000,
+  "locked_invariant": "self",
+  "final_binding": 0.3812,
+  "competitive_leader": "self",
+  "competitive_leader_strength": 0.9974,
+  "meaning_summary": {
+    "known_definitions": [
+      "loop",
+      "mirror",
+      "integrity",
+      "observer",
+      "structure",
+      "self",
+      "origin",
+      "symbolic",
+      "reflects",
+      "recursion",
+      "builds",
+      "anchors",
+      "contains",
+      "organizes",
+      "emerges",
+      "interprets",
+      "precedes",
+      "stabilizes",
+      "binds",
+      "tracks",
+      "returns",
+      "defines"
+    ],
+    "invariant_symbol": "self",
+    "invariants": {
+      "self": "self emerges as a recurrent symbolic element."
+    },
+    "stable_symbols": {
+      "self": 0.9
+    },
+    "reinforcement_strength": {
+      "self": 0.997
+    },
+    "usage_counts": {
+      "observer": 2029,
+      "interprets": 305,
+      "symbolic": 1333,
+      "structure": 2313,
+      "integrity": 611,
+      "tracks": 258,
+      "origin": 1476,
+      "self": 1047,
+      "precedes": 259,
+      "mirror": 1864,
+      "loop": 2357,
+      "organizes": 265,
+      "binds": 242,
+      "reflects": 786,
+      "stabilizes": 276,
+      "contains": 248,
+      "emerges": 298,
+      "recursion": 632,
+      "builds": 278,
+      "anchors": 274,
+      "returns": 309,
+      "defines": 232
+    },
+    "context_diversity": {
+      "observer": 94,
+      "interprets": 1,
+      "symbolic": 91,
+      "structure": 94,
+      "integrity": 91,
+      "tracks": 1,
+      "origin": 93,
+      "self": 88,
+      "precedes": 1,
+      "mirror": 97,
+      "loop": 96,
+      "organizes": 1,
+      "binds": 1,
+      "reflects": 3,
+      "stabilizes": 1,
+      "contains": 1,
+      "emerges": 1,
+      "recursion": 91,
+      "builds": 1,
+      "anchors": 1,
+      "returns": 1,
+      "defines": 1
+    }
+  },
+  "graph_summary": {
+    "symbol_count": 22,
+    "edge_count": 31806
+  },
+  "self_model_state": {
+    "mode": "stabilized",
+    "active_goals": [
+      "Maintain coherent self-model across time"
+    ],
+    "dominant_symbols": [
+      "self"
+    ],
+    "reinforced_symbols": [
+      "self"
+    ],
+    "integrity_score": 0.7299681694629825
+  }
+}
