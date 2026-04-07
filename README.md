@@ -57,30 +57,6 @@ The system executes a multi-stage lifecycle in every iteration to process stimul
 
 ---
 
-## Technical Benchmarks: The 5,000-Step Run
-
-A standard validation run of 5,000 steps demonstrates the transition from symbolic noise to a locked invariant. In this environment, the `self` symbol typically emerges as the competitive leader, stabilizing as the system's identity.
-
-### Example Symbolic State (`summary.json`)
-
-```json
-{
-  "locked_invariant": "self",
-  "competitive_leader": "self",
-  "competitive_leader_strength": 1.0457,
-  "integrity_score": 0.96,
-  "dominant_symbols": ["self"],
-  "binding_strength": 1.0,
-  "total_steps": 5000
-}
-## Key Observations
-
-- **Integrity**: A score of ~0.96 indicates a high degree of logical consistency within the graph.
-- **Binding**: Stabilization near 1.0 confirms the transition from transient symbol to fixed identity attractor.
-- **Determinism**: All behavior arises from recursive interaction and structural constraints, ensuring full interpretability.
-
----
-
 ## Project Structure
 
 The repository is organized into discrete functional modules that manage the symbolic lifecycle:
