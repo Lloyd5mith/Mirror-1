@@ -72,6 +72,7 @@ The repository is organized into discrete functional modules that manage the sym
 - `observer.py` — Observer binding and identity coupling  
 - `memory.py` — Temporal trace storage  
 - `integrity_filter.py` — Stability and decay control  
+- `tokenizer.py` — Token generation from raw data 
 
 ---
 
