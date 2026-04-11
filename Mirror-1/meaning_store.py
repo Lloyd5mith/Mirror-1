@@ -38,7 +38,7 @@ class MeaningStore:
 
         self.decay_rate = float(decay_rate)
         self.stabilize_threshold = 3
-        self.commit_threshold = 0.9
+        self.commit_threshold = 0.8
 
         self.goal_symbol_map: Dict[str, str] = {
             "Define reflection logic": "mirror",
