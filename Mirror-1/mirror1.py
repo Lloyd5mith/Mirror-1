@@ -143,7 +143,7 @@ class Mirror1:
         self.meaning_store.decay()
 
         # ----------------------------------------------
-        # 🔥 CONVERGENCE PRESSURE
+        #  CONVERGENCE PRESSURE
         # ----------------------------------------------
         if self.turn > 2000:
             for sym, strength in list(self.meaning_store.reinforcement_strength.items()):
