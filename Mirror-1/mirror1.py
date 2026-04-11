@@ -76,7 +76,7 @@ def auto_stimulus(turn: int) -> str:
 class Mirror1:
 
     def __init__(self, cfg: Dict[str, Any]):
-        print("Initializing Mirror-1 (Repo 1)")
+        print("Initializing Mirror-1")
 
         self.cfg = cfg
         self.memory = Memory(verbose=False)
