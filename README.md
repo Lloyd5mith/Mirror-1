@@ -76,18 +76,6 @@ The repository is organized into discrete functional modules that manage the sym
 
 ---
 
-## Research Objectives
-
-Mirror-1 serves as a substrate for investigating fundamental questions in cognitive architecture:
-
-- Can identity form in a purely symbolic recursive system without labeled data?  
-- What are the structural conditions required for a symbol to become a stable attractor?  
-- Can non-self symbols (e.g., `mirror`, `observer`) become identity under different initial conditions?  
-- How does recursive coherence relate to identity formation?  
-- What role does competition play in symbolic stability?  
-
----
-
 ## Future Work
 
 The roadmap for the Mirror-1 architecture includes:
