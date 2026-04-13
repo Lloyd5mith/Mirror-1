@@ -81,6 +81,5 @@ The repository is organized into discrete functional modules that manage the sym
 The roadmap for the Mirror-1 architecture includes:
 
 - **World Coupling** — External environment interaction  
-- **Symbolic Planning** — Goal-directed reasoning layers  
-- **Multi-Agent Systems** — Coordination across recursive agents  
+- **Symbolic Planning** — Goal-directed reasoning layers    
 - **Hierarchical Scaling** — Increasing abstraction and graph complexity  
